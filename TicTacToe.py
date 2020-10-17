@@ -16,7 +16,6 @@ board = ["-", "-", "-",
          "-", "-", "-"]
 
 # possible final positions for finish the game
-winnerPositions = ([0, 3, 6], [1, 4, 7], [2, 5, 8], [0, 1, 2], [3, 4, 5], [6, 7, 8], [0, 4, 8], [2, 4, 6])
 finalPositons =([0,4,8],[2,4,6],[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8])
 # the game can be finish with these conditions
 # examples are shown below for ai
